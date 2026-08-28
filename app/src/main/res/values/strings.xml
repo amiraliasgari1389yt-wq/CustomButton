@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">باتن کاستوم</string>
+    <string name="settings_title">انتخاب اپلیکیشن مقصد</string>
+    <string name="select_app_instruction">اپی که با نگه‌داشتن دکمه باز می‌شه رو انتخاب کن:</string>
+    <string name="please_select_app">لطفاً یک اپ انتخاب کنید</string>
+    <string name="app_selected">%1$s به‌عنوان اپ مقصد انتخاب شد</string>
+
+    <string name="toggle_label">نمایش دکمه</string>
+    <string name="length_slider_label">طول دکمه</string>
+    <string name="hold_duration_slider_label">مدت زمان نگه‌داشتن: %1$.1f ثانیه</string>
+
+    <string name="choose_app_row_title">اپلیکیشن مقصد</string>
+    <string name="no_app_selected">انتخاب نشده</string>
+
+    <string name="permission_row_title">دسترسی نمایش روی برنامه‌های دیگر</string>
+    <string name="permission_granted">فعال است</string>
+    <string name="permission_not_granted">غیرفعال — برای فعال‌سازی لمس کنید</string>
+    <string name="overlay_permission_needed_toast">لطفاً ابتدا اجازه نمایش روی برنامه‌های دیگر را فعال کنید</string>
+
+    <string name="notification_channel_name">دکمه شناور</string>
+    <string name="notification_content_title">دکمه فعال است</string>
+    <string name="notification_content_text">برای تغییر تنظیمات لمس کنید</string>
+</resources>
